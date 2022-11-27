@@ -56,5 +56,6 @@ You are expected to design and implement two components:
 
 Both components should use the port 1895 for the network communication.
 
-You also need to test these two components by running four clients and one server. 
-Create test cases for all the possible operations and their outcomes.
+You also need to test these two components by running four clients and one server. The file users.txt should be used to fill the global hash map stored by the key/value server.
+
+Create test cases for all the possible operations and their outcomes (successful and unsuccessful).
